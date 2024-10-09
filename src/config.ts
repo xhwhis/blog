@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://whis.me", // replace this with your deployed domain
+  website: "https://xhwhis.com", // replace this with your deployed domain
   author: "Whis Liao",
-  profile: "https://whis.me",
-  desc: "feedId:65413503647261696+userId:60875990244062208",
+  profile: "https://xhwhis.com",
+  desc: "Whis's Blog",
   title: "Whis's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
